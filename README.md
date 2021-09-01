@@ -8,11 +8,11 @@
 
 ---
 
-Мой стек.
+#### Мой стек
 
 ---
 
-В настоящее время я в поиске команды, с которой смогу применить полученные знания на практике и получить новый опыт. По окончании обучения планирую глубже изучить React, TypeScript, Sass, Stylus, Less.
+В настоящее время я в поиске команды, с которой смогу применить полученные знания на практике и получить новый опыт. По окончании обучения планирую глубже изучить **React, TypeScript, Sass, Stylus, Less**.
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 
