@@ -26,7 +26,7 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 <img src="https://img.icons8.com/office/32/000000/react.png"/>
 <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/36/000000/sass-avatar.png"/>
-<img  width="36" src="https://camo.githubusercontent.com/12c79be4b05f972b742c079fd5d0c1085729ea21a0d9263300cd6e9fa3ee9366/687474703a2f2f6c6573736373732e6f72672f7075626c69632f696d672f6c6573735f6c6f676f2e706e67"/>
+<img  width="62" src="https://camo.githubusercontent.com/12c79be4b05f972b742c079fd5d0c1085729ea21a0d9263300cd6e9fa3ee9366/687474703a2f2f6c6573736373732e6f72672f7075626c69632f696d672f6c6573735f6c6f676f2e706e67"/>
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 
