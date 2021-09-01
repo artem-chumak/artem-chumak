@@ -27,7 +27,7 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/36/000000/sass-avatar.png"/>
 <img width="44" src="https://cdn.iconscout.com/icon/free/png-512/stylus-2749354-2284744.png" />
-<img  width="62" src="https://b7.pngbarn.com/png/716/78/web-development-sass-less-cascading-style-sheets-bootstrap-wordpress-png-clip-art.png"/>
+<img  width="62" src="https://s3.amazonaws.com/media-p.slid.es/uploads/451309/images/2235402/icon_less.png"/>
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 
