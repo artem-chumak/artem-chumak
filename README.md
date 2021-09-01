@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 </a>
