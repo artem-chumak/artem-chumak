@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div style="display: flex" style="flex-direction: row" style="justify-content:space-between">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="120" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
+<img height="120" align="left" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
+<img height="120" style="margin-left: 20px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 </a>
-</div>
