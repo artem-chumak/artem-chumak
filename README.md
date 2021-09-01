@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
