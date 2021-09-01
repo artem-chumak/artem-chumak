@@ -18,6 +18,7 @@ VScode
 <img src="https://img.icons8.com/color/36/000000/git.png"/>
 <img src="https://img.icons8.com/color/46/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/36/000000/webpack.png"/>
+<img src="https://img.icons8.com/color/36/000000/figma--v1.png"/>
 
 ---
 
