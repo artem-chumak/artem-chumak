@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: flex; flex-direction: row; justify-content:space-between">
+<div style="display: flex" style="flex-direction: row" style="justify-content:space-between">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="120" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 </a>
