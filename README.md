@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
-
+</a>
