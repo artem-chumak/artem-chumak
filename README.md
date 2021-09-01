@@ -9,7 +9,7 @@
 ---
 
 ### Мой стек
-VScode  
+VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma  
 <img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/36/000000/css3.png"/>
