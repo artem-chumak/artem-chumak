@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 
-_stats by [github-stats-three.vercel.app]
+_stats by [github-stats-three.vercel.app]_
 
 [github-stats-three.vercel.app]: <https://github.com/dylanjamesdev/Github-ReadMe-Stats#:~:text=github-stats-three.vercel.app>
