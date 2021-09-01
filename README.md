@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&layout=compact" />
-<img  disploy="block" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs&show_icons=true" />
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&layout=compact" />
+<img height="120" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs&show_icons=true" />
