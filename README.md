@@ -9,7 +9,8 @@
 ---
 
 ### Мой стек
-<img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png"/> VScode
+VScode
+<img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png"/>
 
 ---
 
