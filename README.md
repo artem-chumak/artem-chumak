@@ -23,8 +23,10 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 ---
 
 В настоящее время я в поиске команды, с которой смогу применить полученные знания на практике и получить новый опыт. По окончании обучения планирую глубже изучить **React, TypeScript, Sass, Stylus, Less**.  
+
 <img src="https://img.icons8.com/office/32/000000/react.png"/>
 <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/36/000000/sass-avatar.png"/>
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 
