@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula">
 <img height="120"  align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
