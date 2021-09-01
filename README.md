@@ -16,7 +16,7 @@ VScode
 <img src="https://img.icons8.com/color/36/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/office/32/000000/react.png"/>
 <img src="https://img.icons8.com/color/36/000000/git.png"/>
-<img align="bottom" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/46/000000/nodejs.png"/>
 
 ---
 
