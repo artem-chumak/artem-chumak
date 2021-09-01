@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-
+<div style="display: flex; flex-direction: row; justify-content:space-between">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="120"  align="left" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
+<img height="120" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="120" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 </a>
+</div>
