@@ -1,6 +1,6 @@
 ### Всем привет, меня зовут Артём!
 #### Люблю кодить и дизайнить.
-<img src="https://img.icons8.com/color/26/000000/telegram-app--v1.png"/>
+<img src="https://img.icons8.com/color/26/000000/telegram-app--v1.png"/> [@artchumak]
 
 ---
 
@@ -39,3 +39,4 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 _stats by [github-stats-three.vercel.app]_
 
 [github-stats-three.vercel.app]: <https://github.com/dylanjamesdev/Github-ReadMe-Stats#:~:text=github-stats-three.vercel.app>
+[@artchumak]: <t.me/artchumak>
