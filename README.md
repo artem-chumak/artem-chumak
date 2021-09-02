@@ -1,6 +1,6 @@
 ### Всем привет, меня зовут Артём!
 #### Люблю кодить и дизайнить.
-<img src="https://img.icons8.com/color/16/000000/telegram-app--v1.png"/> [@artchumak]
+_telegram:_ [@artchumak]
 
 ---
 
