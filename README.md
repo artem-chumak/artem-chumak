@@ -37,5 +37,7 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=dracula" />
 
 _stats by [github-stats-three.vercel.app]_
+_icons by [https://icons8.com/]_
 
 [github-stats-three.vercel.app]: <https://github.com/dylanjamesdev/Github-ReadMe-Stats#:~:text=github-stats-three.vercel.app>
+[https://icons8.com/]: <https://icons8.com/>
