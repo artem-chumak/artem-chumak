@@ -33,7 +33,7 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, Figma
 
 ---
 
-<img src="https://www.codewars.com/users/4to.0/badges/micro" />
+<img src="https://www.codewars.com/users/4to.0/badges/small" />
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=dracula" />
 
