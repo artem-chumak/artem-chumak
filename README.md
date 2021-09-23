@@ -1,6 +1,6 @@
 ### Привет, меня зовут Артём!
 #### Люблю кодить и дизайнить.
-_telegram:_ @artchumak
+_telegram:_ [@artchumak](https://t.me/artchumak)
 
 ---
 
