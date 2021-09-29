@@ -19,7 +19,7 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, MongoDB, Postman, F
 <img src="https://img.icons8.com/color/36/000000/git.png"/>
 <img src="https://img.icons8.com/color/46/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/36/000000/webpack.png"/>
-<img width="44" src="https://camo.githubusercontent.com/343c737112e9fa8817e766cb4806b23bba7f65d6c9e363d57bcb1c24149e4a8e/68747470733a2f2f706e67696d6167652e6e65742f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573732d6a732d706e672d352e706e67"/>
+<img width="36" src="https://camo.githubusercontent.com/343c737112e9fa8817e766cb4806b23bba7f65d6c9e363d57bcb1c24149e4a8e/68747470733a2f2f706e67696d6167652e6e65742f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573732d6a732d706e672d352e706e67"/>
 <img src="https://img.icons8.com/color/36/000000/mongodb.png"/>
 <img src="https://img.icons8.com/dusk/32/000000/postman-api.png"/>
 <img src="https://img.icons8.com/color/32/000000/figma--v1.png"/>
