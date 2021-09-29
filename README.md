@@ -20,7 +20,6 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, MongoDB, Postman, F
 <img src="https://img.icons8.com/color/46/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/36/000000/webpack.png"/>
 <img src="https://img.icons8.com/color/36/000000/mongodb.png"/>
-<img width="36" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png"/>
 <img src="https://img.icons8.com/dusk/32/000000/postman-api.png"/>
 <img src="https://img.icons8.com/color/32/000000/figma--v1.png"/>
 
