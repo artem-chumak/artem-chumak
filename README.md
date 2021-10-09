@@ -39,8 +39,8 @@ VScode, HTML, CSS, JavaScript, React, Git, Node.js, Webpack, MongoDB, Postman, F
 <img src="https://www.codewars.com/users/4to.0/badges/small" />
 
 <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-chumak&&layout=compact&theme=react" />
-
-<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=react" />
+<!-- 
+<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=artem-chumak&hide=contribs,issues&theme=react" /> -->
 
 _stats by [github-stats-three.vercel.app]_  
 _icons by [icons8.com]_
